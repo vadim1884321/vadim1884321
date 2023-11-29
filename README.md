@@ -1,6 +1,6 @@
 ### Hi there 👋 Всем привет!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim1884321&layout=compact&theme=midnight-purple)](https://github.com/vadim1884321/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim1884321&layout=compact&theme=transparent)](https://github.com/vadim1884321/github-readme-stats)
 
 <!--
 **vadim1884321/vadim1884321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
